@@ -2,10 +2,10 @@
 Reddit Data Pipeline with Airflow &amp; Streamlit
 
 ## Component	Tool	Status
-Data Ingestion	Reddit API + Airflow DAG	✅ Done
-Data Storage	PostgreSQL (via Docker)	✅ Done
-Visualization	Streamlit Dashboard	✅ Done (basic version)
-Dev Environment	Docker + Local Dev	✅ Smooth
+- Data Ingestion	Reddit API + Airflow DAG	✅ Done
+- Data Storage	PostgreSQL (via Docker)	✅ Done
+- Visualization	Streamlit Dashboard	✅ Done (simple)
+- Dev Environment	Docker + Local Dev	✅ Smooth
 
 ## 🧠 Knowledges
 - ETL/ELT pipelines
